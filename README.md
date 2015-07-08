@@ -1,4 +1,4 @@
-Nodeify Lmabda
+Nodeify Lambda
 ====================
 
 About
@@ -9,7 +9,7 @@ Setup
 --------------
 
 ```sh
-npm install @literacyplanet/nodeify_lambda
+npm install nodeify_lambda
 ```
 
 Example
@@ -17,7 +17,7 @@ Example
 
 ```js
 
-	var nodeifyLambda = require('@literacyplanet/nodeify_lambda');
+	var nodeifyLambda = require('nodeify_lambda');
 
 	exports.handler = nodeifyLambda(function(event, callback) {
 		// the context object is now a node callback!

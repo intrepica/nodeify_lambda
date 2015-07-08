@@ -1,5 +1,5 @@
 {
-  "name": "@literacyplanet/nodeify_lambda",
+  "name": "nodeify_lambda",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
