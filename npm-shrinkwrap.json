@@ -1,5 +1,10 @@
 {
-  "name": "@literacyplanet/nodeify_lambda",
+  "name": "nodeify_lambda",
   "version": "1.0.1",
-  "dependencies": {}
+  "dependencies": {
+    "nodeify_lambda_context": {
+      "version": "1.0.1",
+      "from": "nodeify_lambda_context@"
+    }
+  }
 }
