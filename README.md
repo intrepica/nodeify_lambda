@@ -1,4 +1,4 @@
-[![Build Status](https://semaphoreci.com/api/v1/projects/3d71c682-5fed-4974-9d64-4244e21ab2e2/483530/badge.svg)](https://semaphoreci.com/lp/nodeify_lambda-3)
+[![Build Status](https://semaphoreci.com/api/v1/projects/6647c6af-07c3-4f2b-b7bb-28cff438ec65/483537/badge.svg)](https://semaphoreci.com/lp/nodeify_lambda)
 
 Nodeify Lambda
 ====================
